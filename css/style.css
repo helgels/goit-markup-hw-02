@@ -162,7 +162,9 @@ body {
 .footer-mail:hover,
 .footer-mail:focus,
 .footer-tel:hover,
-.footer-tel:focus {
+.footer-tel:focus,
+.footer-address:hover,
+.footer-address:focus {
   color: var(--accent-color);
 }
 /* portfolio main */
