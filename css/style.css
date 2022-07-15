@@ -97,7 +97,6 @@ body {
 .hero-btn:focus {
   color: #188ce8;
 }
-
 .features-title {
   font-weight: 700;
   font-size: 14px;
@@ -119,6 +118,9 @@ body {
   line-height: 1.16;
   letter-spacing: 0.03em;
   color: var(--main-color);
+}
+.team {
+  background-color: #F5F4FA;
 }
 .team-name {
   font-weight: 500;
