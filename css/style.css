@@ -95,7 +95,7 @@ body {
 }
 .hero-btn:hover,
 .hero-btn:focus {
-  color: #188ce8;
+  background-color: #188ce8;
 }
 .features-title {
   font-weight: 700;
@@ -139,6 +139,7 @@ body {
   background-color: #2f303a;
 }
 .footer-logo {
+  font-family: Raleway, sans-serif;
   font-weight: 700;
   font-size: 26px;
   line-height: 1.19;
@@ -178,6 +179,7 @@ body {
   text-align: center;
   letter-spacing: 0.03em;
   color: var(--main-color);
+  background-color: #F5F4FA;
   cursor: pointer;
 }
 .portfolio-btn:hover,
